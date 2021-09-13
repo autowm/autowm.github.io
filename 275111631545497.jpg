@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Tools </title>
+    <link rel="icon" href="https://www.nicepng.com/png/full/123-1235180_anime-reaction-images-thinking-anime-png.png" type="image/png">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/styles/style.css"">
+	<script src=" ./hello world_files/jquery.js.download">
+    </script>
+    <script src="./hello world_files/bootstrap.min.js.download">
+    </script>
+    <script src="./hello world_files/script.js.download"></script>
+</head>
+
+<body class="body">
+    <div class="container">
+
+        <div class="row-bound row">
+            <div class="col-sm-4">
+                <h3 class="the-title"Zeo Kuns</h3>
+                <h3 class="glitch1 the-title">Zeo Kuns</h3>
+                <h3 class="glitch2 the-title">Zeo Kuns</h3>
+                <p>
+                    <br>
+                    <img src="https://www.nicepng.com/png/full/123-1235180_anime-reaction-images-thinking-anime-png.png" alt="my photo" width="150" height="150"> <br><br>
+                    📝 SEO<br>
+                    ⚡ Bug Hunter.<br>
+                    💻 Animej.<br>
+                    🏅 Evoush666Crew, ID<br>
+                    <script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/zeogans','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
+                    
+                    <i>find me on:</i><br>
+                    <a href="https://wa.me/+6287868223723" target="_blank">
+                        <img src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Logo-700x394.png" class="profile">
+                    </a>
+                    <a href="https://www.facebook.com/zeo.kun.98" target="_blank">
+                        <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202107facebookfblogosocialsocialmedia-115710_115591.png" class="profile">
+                    </a>
+                    <br>
+                    <br>
+                  
+                      📌 zeo900k@gmail.com
+                </p>
+                <br>
+                <br>
+            </div>
+
+            <div class="col-sm">
+                 <h3>ALL TOOLS<h3>
+                <br>
+                <p>
+                <div class="d-flex flex-wrap justify-content-around">
+
+               <li><a href='./cms/'>⚡WordPress Checker</a><br><br> 
+                    
+               <li><a href='./cms/csrf.php'>⚡Csrf Online</a><br><br>
+                     
+             
+                </div>
+                <br>
+            </div>
+
+
+        </div>
+        <br>
+        <br>
+        <p class="d-flex justify-content-center footer-sec"><a href="./">
+                Zeo-Kuns</a>@2050</p>
+        <br>
+    
+    </div>
+    
+
+
+
+</body>
+
+</html>
