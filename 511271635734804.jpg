@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" />
+<link rel="favicon icon" href="/icon.ico" />
+<link rel="stylesheet" href="/mobile/style.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=ABeeZee:400,400italic%7cSarala:400,700" type="text/css" media="all" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" type="text/css" media="all" />
+<title>XEO Explorer - GRATIS Cek DA, PA, SS, BL, UR, DR, Alexa, Ahrefs, DLL</title>
+<meta name="theme-color" content="#ff2b2b" />
+<meta name="msapplication-navbutton-color" content="#097894" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="#379409" />
+<meta property="og:image" content="https://xeo.my.id/mobile/holo.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://xeo.go.id/" />
+<meta property="og:title" content="XEO Explorer - GRATIS Cek DA, PA, SS, BL, UR, DR, Alexa, Ahrefs, DLL" />
+<meta name="description" content="[2021-11-01] Tool GRATIS Cek DA, PA, SS, UR, DR, Backlink, Alexa, Ahrefs, Dan Tool Powerfull Lainnya." />
+<meta property="fb:app_id" content="187960271237149" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    html {
+    cursor: url(https://nagacdn.netlify.app/css/pesawat.ani), url(https://nagacdn.netlify.app/css/pesawat.png), auto !important;
+    background: url(https://png.pngtree.com/thumb_back/fw800/background/20201009/pngtree-cloudy-sky-background-with-gray-clouds-image_407433.jpg) no-repeat; background-size: cover;
+    }
+    body { font-family:'ABeeZee', sans-serif; }
+    .yellow { border: 1px solid #999; background: yellow; padding: 5px; margin: 3px;  solid #000; text-align: center; }
+    .myw { border: 1px solid #999; background: yellow; padding: 3px; margin: 3px;  solid #000; text-align: center; display: inline-block; }
+    input.add { padding: 9px; border: 1px solid green; width: 45%; background: white; }
+    select.add { padding: 11px; border: 1px solid green; width: 45%; background: white; }
+    input.enter { padding: 5px; border: 1px solid darkorange; background: green; color: white; font-weight: bold; }
+    input.reset { padding: 9px; border: 1px solid darkorange; background: red; color: white; font-weight: bold; }
+    input.orange { padding: 9px; border: 1px solid green; background: orangered; color: white; font-weight: bold; }
+    input.purple { padding: 9px; border: 1px solid darkorange; background: purple; color: white; font-weight: bold; }
+    input.blue { padding: 9px; border: 1px solid darkorange; background: blue; color: white; font-weight: bold; }
+    .ac, #c { text-align: center; }
+    .aj, #j { text-align: justify; }
+    .al { text-align: left; }
+    .fb, #b { font-weight: bold; }
+    .fr, #r { color:red; }
+    .fg, #g { color:green; }    input.x5 { padding: 1px; border: 1px solid #ccc; }
+    input.x5[type="date"] { background: white; width: 25%; padding: 3px; }
+        .table td {
+        border: 1px solid #555;
+        padding: 3px;
+        }
+    tr.so { background: #ffdede; }
+    tr.th { background: green; color: #fff; font-weight: bold; text-align: center; }
+    td, th { border: 1px solid #ddd; padding: 1px; }
+    a.btn { margin: 3px; font-weight: 700; }
+    h1.title { 
+        font-size: 39px; 
+        font-family: 'Russo One', sans-serif; 
+        font-weight: 900;
+        background: linear-gradient(1deg,#e4b91a,#b50202,#ff9100,#07adaa,#0056f5,#b502a0,#ce1ae4);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        }
+    .clr { 
+        font-weight: 700;
+        background: linear-gradient(50deg,#e4b91a,#b50202,#ff9100,#07adaa,#0056f5,#b502a0,#ce1ae4);
+        color: #fff;
+        margin-top: 5px;
+        }    
+    .radix { color: #6f6a60; border: 1px solid #d0e9c6; padding: 7px; margin: 0; border-radius: .25rem; }
+    input.btnx {
+    background: linear-gradient(to left, #ff851a, #fc00ff); color: white; font-weight: bold; border: 1px solid #eee;
+    }
+    input.btnx:hover {
+    background: linear-gradient(to left, #fc00ff, #ff851a); color: white; font-weight: bold; border: 1px solid #eee;
+    }
+    @media (min-width: 782px){
+    body { margin-top: 10px; }
+    }
+    @media (max-width: 710px){
+    body { padding-top: 10px; margin-top: 0px; }
+    }
+    </style>
+</head>
+<body align="justify">
+<div align="center">
+<h1 class="title">X E O</h1>
+<b style="color:red">&middot;</b>
+<a href="/"><b>HOME</b></a> <b style="color:red">&middot;</b>
+<a href="/kios.cgi"><b style="color:green">TOKO</b></a> <b style="color:red">&middot;</b>
+<a href="/mobile/vip/"><b style="color:orange">VIP</b></a> <b style="color:red">&middot;</b>
+<a href="/vost/index.cgi"><b style="color:purple">VOST</b></a> <b style="color:red">&middot;</b>
+<a href="/member/pro/"><b style="color:red">PRO</b></a>
+<b style="color:red">&middot;</b>
+</div>
+<div style="margin-bottom: 15px; padding: 5px; border-bottom: 1px solid red; border-top: 1px solid red; background: #f0efa9;">
+<center>
+<span style="color:#8023ff">MeDok.id 270K</span>
+[<a href="/shop/domain.cgi">beli</a>]
+</center>
+</div>
+&raquo; <a href="//vost.my.id">Backlink Guestbook</a> (<font class="fr">Gratis</font>)<br />
+&raquo; <a href="/ahrefs.cgi">Cek Ahrefs (AR, DR, UR, BL)</a> <br />
+&raquo; <a href="//nadiya.co.id/kios/backlink/">Backlink Blogroll <span style="color: #8000ff">[Rp10K]</span></a> <br />
+&raquo; <a href="/moz.cgi">Cek MOZ (DA, PA, BL, SS)</a> <br />
+&raquo; <a href="/member/pro/">Gabung Jadi Member <span class="fr">PRO</span></a> <br />
+&raquo; <a href="/profile.cgi">Cek Metrik (Moz + Ahrefs)</a> <br />
+&raquo; <a href="//nadiya.co.id/kios/">Domain High Authority <span style="color: #8000ff">[Murah]</span></a> <br />
+&raquo; <a href="/spamscore.cgi">Cek Sumber Spam Score</a> <br />
+&raquo; <a href="//nadiya.co.id/kios/domain.cgi">Pendaftaran Domain <span style="color: #8000ff">[Murah]</span></a> <br />
+&raquo; <a href="//events.nadiya.co.id">Tebak Angka Berhadiah</a> (<font class="fr">New</font>)<br />
+&raquo; <a href="//nadiya.co.id/kios/moz.cgi">Moz Pro 30 Hari <span style="color: #8000ff">[Rp10K]</span></a> <br />
+&raquo; <a href="/gsc/submit.cgi">Submit URL Ke Index Google</a> <br />
+&raquo; <a href="/gsc/index.cgi">Webmaster Search Console</a> <br />
+&raquo; <a href="//nadiya.co.id/kios/ahrefs.cgi">Ahrefs 7 Hari <span style="color: #8000ff">[Rp130K]</span></a> <br />
+&raquo; <a href="/spintax.cgi">Spin Artikel (Bahasa Inggris)</a> <br />
+&raquo; <a href="/donasi.cgi">Mau Dapat Pahala? <span style="color: #8000ff">[Donasi]</span></a> <br />
+&raquo; <a href="/analisateks.cgi">Analisa Artikel</a> <br />
+&raquo; <a href="/arsip.cgi">Cek Riwayat Website</a> <br />
+&raquo; <a href="/alexa.cgi">Cek Alexa Rank</a> <br />
+&raquo; <a href="/whois.cgi">Cek WHOIS +Usia Domain</a> <br />
+&raquo; <a href="/angka.cgi">Random Angka</a> <br />
+&raquo; <a href="/sandi.cgi">Password Generator</a> <br />
+&raquo; <a href="/watermark/upload.cgi">Watermark Online</a> <br />
+&raquo; <a href="/mobile/virtual-url/">Penyingkat URL Keren</a> <br />
+<p>
+<div class="alert alert-warning" style="color:red">
+<a href="https://itheme.my.id" class="2021-11-17">JASA INSTALL TEMA DAN PLUGIN PREMIUM LICENSE MURAH MERIAH, BISA BAYAR SETELAH INSTALL.</a>
+</div>
+</p>
+<center>
+<b>Alexa Rank: 192.912 / <img style="height:15px; border: 1px solid #888; margin: 0px 0px 5px 0px; padding: 0;" src="https://uxwing.com/wp-content/themes/uxwing/download/46-flags-landmarks/indonesia.png" /> 2.413</b>
+</center><div class="blox"></div>
+<i style="font-size: 14px; color: #8000ff;">JUAL DOMAIN .XYZ [20K], .INFO [30K], .COM [90K], .NET [80K], .CO [30K], .BIZ [20K]. MINAT ? KLIK LINK CHAT WA DIBAWAH INI.</i>
+<div class="blox"></div>
+<center>
+<a href="/donasi.cgi">Donasi</a> <b style="color:red">&middot;</b>
+<a href="/member/">Member Area</a> <b style="color:red">&middot;</b>
+<a href="https://wa.me/6283143474453">Chat WA</a>
+</center>
+<div class="blox"></div>
+<p id="c" style="font-size: 16px;">
+XEO ID &copy; 2021
+<b style="font-size: 16px; text-align: center; display: block;">
+PT.
+<font color="red">Na</font><font color="blue">ga</font>
+<font color="red">Di</font><font color="blue">gital</font>
+<font color="blue">Ja</font><font color="red">ya</font>
+</b>
+<i style="font-size: 14px; display: block;">
+Today: 1.949 <b style="color:red;">&middot;</b>
+Yesterday: 0
+</i>
+</p>
+</body>
+</html> 
