@@ -1,0 +1,1380 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="en" class="ie8"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="en" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="ltr" lang="en">
+<!--<![endif]-->
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Alexandre Christie</title>
+<base href="https://alexandrechristie.com/" />
+<meta name="description" content="My Store" />
+<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js"></script>
+<link href="catalog/view/javascript/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js"></script>
+<script src="catalog/view/theme/basel/js/slick.min.js"></script>
+<script src="catalog/view/theme/basel/js/basel_common.js"></script>
+
+<link href="catalog/view/theme/basel/stylesheet/stylesheet.css" rel="stylesheet">
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KVC74DR');</script>
+
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '187541551765402');
+fbq('track', 'PageView');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=187541551765402&ev=PageView&noscript=1"/>
+</noscript>
+
+
+<style id="basel-mandatory-css">.top_line {line-height:41px;}.header-main,.header-main .sign-in,#logo {line-height:90px;height:90px;}.sticky-enabled.sticky-active .sticky-header.short:not(.slidedown) .header-main,.sticky-enabled.offset250 .sticky-header.slidedown .header-main,.sticky-enabled.sticky-active .sticky-header.short .header-main .sign-in,.sticky-enabled.sticky-active .sticky-header.short:not(.slidedown) .header-main #logo,.sticky-enabled.sticky-active .header6 .sticky-header.short .header-main #logo {line-height:70px;height:70px;}@media (max-width: 991px) {.header-main,.sticky-enabled.offset250 .sticky-header.slidedown .header-main,#logo,.sticky-enabled.sticky-active .sticky-header.short .header-main #logo {line-height:70px;height:70px;}}.table-cell.menu-cell,.main-menu:not(.vertical) > ul,.main-menu:not(.vertical) > ul > li,.main-menu:not(.vertical) > ul > li > a,.main-menu:not(.vertical) > ul > li.dropdown-wrapper > a .fa-angle-down,.main-menu.vertical .menu-heading {line-height:64px;height:64px;}.sticky-enabled.sticky-active .table-cell.menu-cell:not(.vertical),.sticky-enabled.sticky-active .main-menu:not(.vertical) > ul,.sticky-enabled.sticky-active .main-menu:not(.vertical) > ul > li,.sticky-enabled.sticky-active .main-menu:not(.vertical) > ul > li > a,.sticky-enabled.sticky-active .main-menu:not(.vertical) > ul > li.dropdown-wrapper > a .fa-angle-down {line-height:64px;height:64px;}.full-search-wrapper .search-main input,.full-search-wrapper .search-category select {height:45px;min-height:45px;}@media (min-width: 992px) {.sticky-enabled.sticky-active .header3 .sticky-header-placeholder,.sticky-enabled.offset250 .header5 .header-main {padding-bottom:64px;}}#logo img {max-width:195px;}</style>
+
+<link href="//fonts.googleapis.com/css?family=Karla:400,400i,700%7CMerriweather:400,700%7CCourgette%7C" rel="stylesheet" media="screen" />
+
+<script src="catalog/view/theme/basel/js/instafeed.min.js"></script>
+<script src="catalog/view/theme/basel/js/masterslider.js"></script>
+<script src="catalog/view/theme/basel/js/jquery.tuber.js"></script>
+<script src="catalog/view/theme/basel/js/jquery.matchHeight.min.js"></script>
+
+<link href="https://alexandrechristie.com/image/catalog/favicon (1).jpg" rel="icon" />
+
+
+<style id="basel-color-scheme">a:hover, a:focus, .menu-cell .dropdown-inner a:hover, .link-hover-color:hover, .primary-color, .cm_item .primary-color, .nav-tabs.text-center.nav-tabs-sm > li.active {color:#a22c4d;}.primary-bg-color, .widget-title-style2 .widget .widget-title-separator:after, .nav-tabs.text-center.nav-tabs-sm > li.active > a:after,.nav-tabs > li > a:hover,.nav-tabs > li > a:focus,.nav-tabs > li.active > a,.nav-tabs > li.active > a:hover,.nav-tabs > li.active > a:focus {background-color:#a22c4d;}div.ui-slider-range.ui-widget-header, .ui-state-default, .ui-widget-content .ui-state-default {background:#a22c4d !important;}.primary-color-border, .nav-tabs {border-color:#a22c4d!important;}.top_notificaiton {background-color:#000000;}.top_notificaiton, .top_notificaiton a {color:#eeeeee;}.top_line {background-color:#a22c4d;}.top_line, .top_line a {color:#ffffff;}.top_line .anim-underline:after, .top_line .links ul > li + li:before, .top_line .links .setting-ul > .setting-li:before {background-color:#ffffff;}.header-style {background-color:#000000;}.header-main, .header-main a:not(.btn), .header-main .main-menu > ul > li > a:hover {color:#ffffff;}.header-main .sign-in:after, .header-main .anim-underline:after, .header-main .sign-in .anim-underline:after {background-color:#ffffff;}.main-menu:not(.vertical) > ul > li:hover > a > .top, .header-main .shortcut-wrapper:hover .icon-magnifier, .header-main #cart:hover .shortcut-wrapper {opacity:0.8;}.shortcut-wrapper .counter {background-color:#a22c4d;}.header-bottom, .menu-style {background-color:#111111;}.menu-style .main-menu a > .top,.menu-style .main-menu a > .fa-angle-down, .menu-style .main-menu .search-trigger {color:#eeeeee;}.menu-tag.sale {background-color:#d41212;}.menu-tag.sale:before {color:#d41212;}.menu-tag.new {background-color:#a22c4d;}.menu-tag.new:before {color:#a22c4d;}.vertical-menu-bg, .vertical-menu-bg.dropdown-content {background-color:#212121;}.main-menu.vertical > ul > li:hover > a {background-color:#a22c4d;}.title_in_bc .breadcrumb-holder {background-color:#fafafa;}.title_in_bc .breadcrumb-holder, .title_in_bc .breadcrumb-holder .basel-back-btn {color:#111111;}.title_in_bc .basel-back-btn>i,.title_in_bc .basel-back-btn>i:after {background-color:#111111;}.btn-primary, a.btn-primary,.btn-neutral {background-color:#000000;color:#ffffff;}.btn-primary:hover,.btn-primary.active,.btn-primary:focus,.btn-default:hover,.btn-default.active,.btn-default:focus {background-color:#3e3e3e!important;color:#ffffff !important;}.btn-contrast-outline {border-color:#a22c4d;color:#a22c4d;}.btn-contrast, a.btn-contrast, .btn-contrast-outline:hover {background-color:#a22c4d;}.sale_badge {background-color:#a22c4d;color:#ffffff}.new_badge {background-color:#ffffff;color:#111111}.price, #cart-content .totals tbody > tr:last-child > td:last-child {color:#a22c4d}#footer {background-color:#000000;}#footer, #footer a, #footer a:hover, #footer h5 {color:#ffffff;}#footer .footer-copyright:before {background-color:#ffffff;opacity:0.05;}#footer h5:after {background-color:#666666;}body.boxed-layout {background-color:#ffffff;};</style>
+
+<style id="basel-fonts">body,.product-name.main-font,.gridlist .single-product .product-name,.gridlist .single-blog .blog-title,#bc-h1-holder #page-title {font-family:'Karla', sans-serif;}b, strong, .nav-tabs > li > a, #cart-content .totals tbody > tr:last-child > td, .main-menu .dropdown-inner .static-menu > ul > li.has-sub > a, .main-menu.vertical > ul > li > a, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > td.total-cell, .table-bordered.totals tbody > tr:last-child > td:last-child, .compare-table table tbody tr td:first-child, .totals-slip .table-holder table tr:last-child td, .panel-group .panel-heading .panel-title, .badge i, .product-style1 .grid .single-product .price-wrapper .btn-outline, .options .name label, .dropdown-inner h4.column-title, .product-style6 .grid .single-product .price, .product-style6 .single-product .btn-contrast {font-weight:700;}.product-name, .blog-title, .product-h1 h1, .contrast-heading, .contrast-font {font-family:'Merriweather', serif;}.promo-style-2 h3, .promo-style-4 h3,.table-bordered > tbody > tr > td.price-cell,.grid .single-product .price,.menu-product .sale-counter div,.table.specification > tbody > tr > td b, .bordered-list-title {font-size:16px;}.table.products .remove,.full-search-wrapper .search-category select,.blog_post .blog_comment,.video-jumbotron p,.compare-table table tbody tr td:first-child,.grid .single-product .product-name,.grid .single-product .product-name:hover,.list .single-product .product-name {font-size:15px;}body,input,textarea,select,.form-control,.icon-element,.main-menu > ul > li,.grid-holder .item,.cm_content .cm_item,.instruction-box .caption a,.btn,a.button,input.button,button.button,a.button-circle,.single-product .price .price-old,.special_countdown p,.list .item.single-product .price-tax, .form-control,label,.icon-element {font-size:14px;}small,.form-control.input-sm,.shortcut-wrapper,.header5 .links > ul > li > a,.header5 .setting-ul > .setting-li > a,.breadcrumb,.sign-up-field .sign-up-respond span,.badge i,.special_countdown div i,.top_line {font-size:13px;}.tooltip,.links ul > li > a,.setting-ul > .setting-li > a,.table.products .product-name,#cart-content .totals, .main-menu.vertical > ul > li > a,.single-blog .banner_wrap .tags a,.bordered-list a {font-size:12px;}h1, h2, h3, h4, h5, h6 {font-family:'Merriweather', serif;font-weight:400;}.panel-group .panel-heading .panel-title, legend {font-size:20px;}.title_in_bc .login-area h2, .panel-body h2, h3.lined-title.lg, .grid1 .single-blog .blog-title, .grid2 .single-blog .blog-title {font-size:28px;}h1, .product-info .table-cell.right h1#page-title {font-family:'Merriweather', serif;font-size:26px;font-weight:400;text-transform:none;letter-spacing:0px;}.title_in_bc .breadcrumb-holder #title-holder {font-family:'Merriweather', serif;}.title_in_bc .breadcrumb-holder #title-holder #page-title, .title_in_bc.tall_height_bc .breadcrumb-holder #title-holder #page-title, .title_in_bc.extra_tall_height_bc .breadcrumb-holder #title-holder #page-title {font-size:32px;font-weight:400;text-transform:none;letter-spacing:0px;}.widget .widget-title .main-title {font-family:'Merriweather', serif;font-size:36px;font-weight:400;text-transform:none;letter-spacing:0px;}.lang-curr-wrapper h4, .column .widget .widget-title .main-title, #footer h5, .dropdown-inner h4.column-title b, .blog_post .section-title {font-family:'Merriweather', serif;font-size:16px;font-weight:700;text-transform:uppercase;letter-spacing:0px;}.main-menu:not(.vertical) > ul > li > a > .top {font-family:'Karla', sans-serif;font-size:14px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;}</style>
+
+<style id="basel-custom-css">
+.single-product .product-name,
+.single-blog .blog-title {
+font-family:'Courgette', cursive;
+}
+
+.widget .widget-title .main-title {
+    font-family: Lato;
+    font-weight: 900;
+font-style: normal;
+/*color: #FFF;*/
+}
+
+.single-product .product-name, .single-blog .blog-title {
+    font-family: Lato;
+    font-weight: 900;
+font-style: normal;
+/*color: #FFF;*/
+}
+
+.title_in_bc .breadcrumb-holder #title-holder #page-title, .title_in_bc.tall_height_bc .breadcrumb-holder #title-holder #page-title, .title_in_bc.extra_tall_height_bc .breadcrumb-holder #title-holder #page-title {
+    font-family: Lato;
+    font-weight: 900;
+font-style: normal;
+}
+
+.lang-curr-wrapper h4, .column .widget .widget-title .main-title, #footer h5, .dropdown-inner h4.column-title b, .blog_post .section-title {
+    font-family: Lato;
+    font-weight: 900;
+font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Lato;
+    font-weight: 900;
+/*color: #FFF;*/
+}
+
+.single-product .image .icons-wrapper .icon span:before {
+    display: inline-block;
+    text-shadow: 0px 0px 2px #CCC;
+    color: #a22c4d;
+    font-weight: bold;
+}
+
+/*
+body {
+    background-color: #000;
+color: #FFF;
+}
+
+.widget .widget-title .sub-line span {
+    color: #ccc;
+}
+
+.grid .single-product .product-name, .grid .single-product .product-name:hover, .list .single-product .product-name {
+    color: #FFF;
+}
+
+.blog .short-description {
+    color: #CCC;
+}
+
+.plain-menu > li > a:not(:hover) {
+    color: #FFF;
+}
+
+.pagination > li > a, .pagination > li > span {
+    color: #FFF;
+}
+
+.product-info .table-cell.right p.info b {
+    color: #FFF;
+}
+
+#form-review label, #form-question label {
+    color: #FFF;
+}
+
+h3.lined-title span {
+    background: #000;
+}
+
+label {
+    color: #FFF;
+}
+
+.btn-primary, a.btn-primary, .btn-neutral {
+    background-color: #a22c4d;
+}
+
+.panel-group .panel-heading .panel-title, legend {
+    color: #FFF;
+}
+
+.table-bordered > thead > tr > td {
+    color: #FFF;
+}
+
+.btn-outline, a.btn-outline {
+    background-color: #a22c4d; 
+    border-color: #a22c4d;
+    color: #FFF;
+}
+
+.bordered-list a {
+    color: #FFF;
+}
+
+.dropdown-inner h4.column-title {
+    color: #000;
+}
+
+.compare-table table tbody tr td:first-child {
+    background: #000;
+    color: #FFF;
+}
+
+.popup-note {
+	background:#ffffff;
+    color: #000;
+}
+
+.rating {
+    color: #CCC;
+}
+
+.rating-stars label i {
+    color: #FFF;
+}*/
+
+.blog .blog_stats {
+    display: none;
+}
+
+.blog-widget .blog .short-description {
+text-align: left;
+}
+
+.blog-title {
+text-align: left;
+}
+
+.image-additional .icon-arrow-left {
+    right: 0px;
+    left: 15px;
+}
+
+.image-additional .icon-arrow-right {
+    right: 15px;
+}
+
+.product-info .price {
+    display: none;
+}
+.icon-header i {
+    font-size: 16px;
+    padding-top: 13px;
+}
+.product-info .table-cell.right p.info:nth-child(2) {
+    display: none;
+}
+
+.widget.contrast-bg {
+    background: #ffffff;
+}
+
+.main-menu:not(.vertical) > ul > li > a > .top {
+    font-size: 12px;
+}
+
+.btn-lang {
+    background: #fff;
+    border: 1px solid #000;
+    color: #000;
+    margin-left: 5px!important;
+}
+.btn-lang:hover {
+    background: #000;
+    border: 1px solid #000;
+    color: #fff;
+    margin-left: 5px!important;
+}
+.btn-lang.active {
+    background: #000;
+    border: 1px solid #000;
+    color: #fff;
+    margin-left: 5px!important;
+}
+</style>
+<link rel='stylesheet' id='smls-google-fonts-lato-css' href='https://fonts.googleapis.com/css?family=Lato%3A400%2C300italic%2C400italic%2C700%2C700italic%2C900italic%2C900&#038;ver=5.2.2' type='text/css' media='all' />
+<style>
+.plain-menu .sign {
+    right: unset;
+    margin-left: 10px;
+}
+</style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113135788-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-113135788-2');
+</script>
+</head>
+<body class="common-home product-style1 names-c global-cart-bag catalog_mode sticky-enabled home-fixed-header wishlist_disabled compare_disabled quickview_disabled hide_ex_tax cut-names basel-back-btn-disabled widget-title-style2">
+<div class="main-menu-wrapper hidden-md hidden-lg">
+<ul class="mobile-top">
+<li class="mobile-lang-curr"></li>
+<li class="search">
+<div class="search-holder-mobile">
+<input type="text" name="search-mobile" value="" placeholder="" class="form-control" /><a class="fa fa-search"></a>
+</div>
+</li>
+</ul>
+<ul class="categories">
+
+
+<li class=" has-sub dropdown-wrapper from-bottom">
+<a href="https://alexandrechristie.com/men-collection" class=" ">
+<span class="top">Collections</span><i class='fa fa-angle-down'></i>
+</a>
+
+
+<div class="dropdown-content sub-holder dropdown-left narrow" style="">
+<div class="dropdown-inner">
+<div class="row">
+<div class="col-xs-12 col-sm-12 ">
+<div class="menu-item">
+
+<div class="categories">
+<div class="row"><div class="col-sm-12 hover-menu"><ul><li class="has-sub dropdown-wrapper from-bottom"><a href="https://alexandrechristie.com/men-collection">Men Collection<i class="fa fa-angle-right"></i></a><ul class="dropdown-content sub-holder dropdown-left"><li><a href="https://alexandrechristie.com/men-collection/men-chronograph">Chronograph</a></li><li><a href="https://alexandrechristie.com/men-collection/men-classic">Classic</a></li><li><a href="https://alexandrechristie.com/men-collection/men-automatic">Automatic</a></li><li><a href="https://alexandrechristie.com/men-collection/men-asteria">Asteria</a></li></ul></li><li class="has-sub dropdown-wrapper from-bottom"><a href="https://alexandrechristie.com/women-collection">Women Collection<i class="fa fa-angle-right"></i></a><ul class="dropdown-content sub-holder dropdown-left"><li><a href="https://alexandrechristie.com/women-collection/women-multifunction">Multifunction</a></li><li><a href="https://alexandrechristie.com/women-collection/women-ladies-passion">Ladies Passion</a></li><li><a href="https://alexandrechristie.com/women-collection/women-classic">Classic</a></li><li><a href="https://alexandrechristie.com/women-collection/women-asteria">Asteria</a></li></ul></li><li><a href="https://alexandrechristie.com/pair">Pair</a></li><li><a href="https://alexandrechristie.com/ac-digi">AC Digi</a></li></ul></div></div>
+</div>
+</div>
+</div>
+</div> 
+</div>
+</div>
+</li>
+
+<li class="">
+<a href="https://alexandrechristie.com/special-edition" class=" ">
+<span class="top">Special Edition</span>
+</a>
+</li>
+
+<li class="">
+<a href="https://alexandrechristie.com/index.php?route=product/category&amp;path=82" class=" description ">
+<span class="top">Green Ocean</span><i class="menu-tag new">NEW</i>
+</a>
+</li>
+
+<li class="">
+<a href="https://alexandrechristie.com/ac-smart" class=" ">
+<span class="top">AC Smart</span>
+</a>
+</li>
+
+<li class="">
+<a href="https://alexandrechristie.com/ac-collection" class=" ">
+<span class="top">AC Collection</span>
+</a>
+</li>
+
+<li class=" has-sub dropdown-wrapper from-bottom">
+<a href="index.php?route=information/storelocator" class=" ">
+<span class="top">Retail and Service</span><i class='fa fa-angle-down'></i>
+</a>
+
+
+<div class="dropdown-content sub-holder dropdown-left narrow" style="">
+<div class="dropdown-inner">
+<div class="row">
+<div class="col-xs-12 col-sm-12 ">
+<div class="menu-item">
+
+<div class="html hover-menu">
+<div class="categories">
+<div class="row"><div class="col-sm-12 hover-menu">
+<ul>
+<li><a href="index.php?route=information/storelocator">Store Locator & Service Center</a></li>
+
+<li><a href="index.php?route=account/download">User Manual</a></li>
+</ul>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div> 
+</div>
+</div>
+</li></ul>
+<ul class="categories">
+</ul>
+</div>
+<span class="body-cover menu-closer"></span><div class="outer-container main-wrapper">
+<div class="header-wrapper header2 fixed-header-possible">
+<span class="table header-main sticky-header-placeholder">&nbsp;</span>
+<div class="sticky-header outer-container header-style">
+<div class="container full-width">
+<div class="table header-main menu-aligned-center">
+<div class="table-cell text-left w20 logo">
+<div id="logo">
+<a href="https://alexandrechristie.com/index.php?route=common/home"><img src="https://alexandrechristie.com/image/catalog/ACLogo400x80.png" title="Alexandre Christie" alt="Alexandre Christie" /></a>
+</div>
+</div>
+<div class="table-cell text-center w60 menu-cell hidden-xs hidden-sm">
+<div class="main-menu">
+<ul class="categories">
+
+
+<li class=" has-sub dropdown-wrapper from-bottom">
+<a href="https://alexandrechristie.com/men-collection" class=" ">
+<span class="top">Collections</span><i class='fa fa-angle-down'></i>
+</a>
+
+
+<div class="dropdown-content sub-holder dropdown-left" style="width:250px;">
+<div class="dropdown-inner">
+<div class="row">
+<div class="col-xs-12 col-sm-12 ">
+<div class="menu-item">
+
+<div class="categories">
+<div class="row"><div class="col-sm-12 hover-menu"><ul><li class="has-sub dropdown-wrapper from-bottom"><a href="https://alexandrechristie.com/men-collection">Men Collection<i class="fa fa-angle-right"></i></a><ul class="dropdown-content sub-holder dropdown-left"><li><a href="https://alexandrechristie.com/men-collection/men-chronograph">Chronograph</a></li><li><a href="https://alexandrechristie.com/men-collection/men-classic">Classic</a></li><li><a href="https://alexandrechristie.com/men-collection/men-automatic">Automatic</a></li><li><a href="https://alexandrechristie.com/men-collection/men-asteria">Asteria</a></li></ul></li><li class="has-sub dropdown-wrapper from-bottom"><a href="https://alexandrechristie.com/women-collection">Women Collection<i class="fa fa-angle-right"></i></a><ul class="dropdown-content sub-holder dropdown-left"><li><a href="https://alexandrechristie.com/women-collection/women-multifunction">Multifunction</a></li><li><a href="https://alexandrechristie.com/women-collection/women-ladies-passion">Ladies Passion</a></li><li><a href="https://alexandrechristie.com/women-collection/women-classic">Classic</a></li><li><a href="https://alexandrechristie.com/women-collection/women-asteria">Asteria</a></li></ul></li><li><a href="https://alexandrechristie.com/pair">Pair</a></li><li><a href="https://alexandrechristie.com/ac-digi">AC Digi</a></li></ul></div></div>
+</div>
+</div>
+</div>
+</div> 
+</div>
+</div>
+</li>
+
+<li class="">
+<a href="https://alexandrechristie.com/special-edition" class=" ">
+<span class="top">Special Edition</span>
+</a>
+</li>
+
+<li class="">
+<a href="https://alexandrechristie.com/index.php?route=product/category&amp;path=82" class=" description ">
+<span class="top">Green Ocean</span><i class="menu-tag new">NEW</i>
+</a>
+</li>
+
+<li class="">
+<a href="https://alexandrechristie.com/ac-smart" class=" ">
+<span class="top">AC Smart</span>
+</a>
+</li>
+
+<li class="">
+<a href="https://alexandrechristie.com/ac-collection" class=" ">
+<span class="top">AC Collection</span>
+</a>
+</li>
+
+<li class=" has-sub dropdown-wrapper from-bottom">
+<a href="index.php?route=information/storelocator" class=" ">
+<span class="top">Retail and Service</span><i class='fa fa-angle-down'></i>
+</a>
+
+
+<div class="dropdown-content sub-holder dropdown-left" style="width:275px;">
+<div class="dropdown-inner">
+<div class="row">
+<div class="col-xs-12 col-sm-12 ">
+<div class="menu-item">
+
+<div class="html hover-menu">
+<div class="categories">
+<div class="row"><div class="col-sm-12 hover-menu">
+<ul>
+<li><a href="index.php?route=information/storelocator">Store Locator & Service Center</a></li>
+
+<li><a href="index.php?route=account/download">User Manual</a></li>
+</ul>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div> 
+</div>
+</div>
+</li> </ul>
+</div>
+</div>
+<div class="table-cell w20 shortcuts text-right">
+<div class="font-zero">
+<div class="icon-element">
+<div class="dropdown-wrapper-click from-top hidden-sx hidden-sm hidden-xs">
+<a class="shortcut-wrapper search-trigger from-top clicker">
+<i class="icon-magnifier icon"></i>
+</a>
+<div class="dropdown-content dropdown-right">
+<div class="search-dropdown-holder">
+<div class="search-holder">
+<div class="search-field">
+<input type="text" name="search" value="" placeholder="Search" class="form-control main-search-input" />
+<span class="btn btn-contrast do-search main">Search</span>
+</div>
+<script>
+$(document).ready(function() {
+$('.search-holder-mobile input[name=\'search-mobile\']').attr("placeholder", "Search").attr("value", "");
+});
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="icon-element icon-header">
+<a class="shortcut-wrapper" href="https://www.facebook.com/actimepiece" target="_blank" style="margin-left: 15px;"><i class="fa fa-facebook"></i>
+</a>
+</div>
+<div class="icon-element icon-header">
+<a class="shortcut-wrapper" href="https://twitter.com/actimepiece" target="_blank"><i class="fa fa-twitter"></i>
+</a>
+</div>
+<div class="icon-element icon-header">
+<a class="shortcut-wrapper" href="https://www.instagram.com/actimepiece/" target="_blank"><i class="fa fa-instagram"></i>
+</a>
+</div>
+<div class="icon-element is_wishlist">
+<a class="shortcut-wrapper wishlist" href="https://alexandrechristie.com/index.php?route=account/wishlist">
+<div class="wishlist-hover"><i class="icon-heart icon"></i><span class="counter wishlist-counter">0</span></div>
+</a>
+</div>
+<div class="icon-element catalog_hide">
+<div id="cart" class="dropdown-wrapper from-top">
+<a href="https://alexandrechristie.com/index.php?route=checkout/cart" class="shortcut-wrapper cart">
+<i id="cart-icon" class="global-cart icon"></i> <span id="cart-total" class="nowrap">
+<span class="counter cart-total-items">0</span> <span class="slash hidden-md hidden-sm hidden-xs">/</span>&nbsp;<b class="cart-total-amount hidden-sm hidden-xs">Rp 0</b>
+</span>
+</a>
+<div class="dropdown-content dropdown-right hidden-sm hidden-xs">
+<ul id="cart-content">
+<li>
+<div class="table empty">
+<div class="table-cell"><i class="global-cart"></i></div>
+<div class="table-cell">Your shopping cart is empty!</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="icon-element">
+<a class="shortcut-wrapper menu-trigger hidden-md hidden-lg">
+<i class="icon-line-menu icon"></i>
+</a>
+</div>
+</div>
+</div>
+</div> 
+</div> 
+</div> 
+</div> 
+<div class="breadcrumb-holder">
+<div class="container">
+<span id="title-holder">&nbsp;</span>
+<div class="links-holder">
+<a class="basel-back-btn" onClick="history.go(-1); return false;"><i></i></a><span>&nbsp;</span>
+</div>
+</div>
+</div>
+<div class="container">
+</div>
+<div class="widget" style="margin-bottom:25px;">
+<div id="masterslider0" class="master-slider widget simple-arrows" style="min-height:700px">
+<div class="ms-slide  kenburn zoom-medium" data-delay="10">
+<img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6602/BACK.jpg" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6602/BACK.jpg" class="slide-bg" alt="">
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6602/6602watch.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6602/6602watch.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-198" data-offset-y="-11" data-parallax="0" data-duration="700" data-delay="550" data-effect="fade()" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6602/6602text.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6602/6602text.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-189" data-offset-y="-19" data-parallax="0" data-duration="500" data-delay="900" data-effect="right(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+</div>
+<div class="ms-slide  kenburn zoom-light" data-delay="10">
+<img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9354/Background.png" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9354/Background.png" class="slide-bg" alt="">
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9354/9354-1.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9354/9354-1.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-183" data-offset-y="-61" data-parallax="0" data-duration="600" data-delay="200" data-effect="top(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9354/9354-2.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9354/9354-2.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-182" data-offset-y="-68" data-parallax="0" data-duration="500" data-delay="350" data-effect="top(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9354/ACDigi.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9354/ACDigi.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-185" data-offset-y="-55" data-parallax="0" data-duration="500" data-delay="500" data-effect="left(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+</div>
+<div class="ms-slide  kenburn zoom-medium" data-delay="10">
+<img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6611/background.png" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6611/background.png" class="slide-bg" alt="">
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6611/6811.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6611/6811.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-190" data-offset-y="-22" data-parallax="0" data-duration="600" data-delay="500" data-effect="top(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="9500" onclick="document.location.href=''" /></a>
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6611/6611.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6611/6611.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-194" data-offset-y="-7" data-parallax="0" data-duration="500" data-delay="700" data-effect="bottom(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="9500" onclick="document.location.href=''" /></a>
+
+</div>
+<div class="ms-slide  kenburn zoom-light" data-delay="10">
+<img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2944/Background.png" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2944/Background.png" class="slide-bg" alt="">
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2944/2944-1.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2944/2944-1.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-200" data-offset-y="-11" data-parallax="0" data-duration="500" data-delay="500" data-effect="bottom(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2944/2944-2.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2944/2944-2.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-188" data-offset-y="6" data-parallax="0" data-duration="500" data-delay="700" data-effect="top(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2944/2944text.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2944/2944text.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-206" data-offset-y="-14" data-parallax="0" data-duration="500" data-delay="800" data-effect="fade()" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+</div>
+<div class="ms-slide  kenburn zoom-right-light" data-delay="10">
+<img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2993/Background.png" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2993/Background.png" class="slide-bg" alt="">
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2993/2993-1.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2993/2993-1.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-190" data-offset-y="34" data-parallax="0" data-duration="600" data-delay="500" data-effect="bottom(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2993/2933-2.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2993/2933-2.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-180" data-offset-y="-104" data-parallax="0" data-duration="500" data-delay="500" data-effect="top(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2993/2933text.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 2993/2933text.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-362" data-offset-y="42" data-parallax="0" data-duration="500" data-delay="600" data-effect="left(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+</div>
+<div class="ms-slide  kenburn zoom-right-light" data-delay="10">
+<img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6608/Background.jpg" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6608/Background.jpg" class="slide-bg" alt="">
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6608/6608watch.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6608/6608watch.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-186" data-offset-y="-34" data-parallax="0" data-duration="600" data-delay="600" data-effect="top(long)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6608/6608text.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 6608/6608text.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-187" data-offset-y="-30" data-parallax="0" data-duration="500" data-delay="650" data-effect="bottom(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+</div>
+<div class="ms-slide  kenburn zoom-right-light" data-delay="10">
+<img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9601/Background.png" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9601/Background.png" class="slide-bg" alt="">
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9601/Watch9601.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9601/Watch9601.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-171" data-offset-y="-11" data-parallax="0" data-duration="600" data-delay="550" data-effect="top(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+<a href="" "><img src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9601/AC9601-Text.png" alt="" data-src="https://alexandrechristie.com/image/catalog/banner/Home Banner/AC 9601/AC9601-Text.png" class="ms-layer image" style="min-height:0px; cursor: pointer;" data-origin="ml" data-type="image" data-offset-x="-186" data-offset-y="5" data-parallax="0" data-duration="600" data-delay="600" data-effect="right(short)" data-ease="linear" data-hide-effect="fade()" data-hide-duration="500" data-hide-ease="linear" data-hide-time="15000" onclick="document.location.href=''" /></a>
+
+</div>
+
+</div>
+</div>
+<script>
+$(document).ready(function(){
+var slider = new MasterSlider();
+slider.setup('masterslider0' , {
+	width:1140,
+	height:700,
+	minHeight:320,
+	layout:"fillwidth",
+	grabCursor:false,
+	centerControls:false,
+	autoplay:true,
+	hideLayers:true,
+	instantStartLayers:true,
+	overPause:false,
+	loop:true,	speed:10,
+	view:"fade"
+});
+slider.control('arrows' , {autohide:false});slider.control('timebar' , {width:5});setTimeout("$('body').addClass('ms_ready');", 400);
+});
+</script>
+<div class="container" style="width:auto;">
+<div class="widget cm_module" style="margin-top:25px;margin-right:px;margin-bottom:20px;margin-left:px;">
+<div class="cm_block_wrapper">
+<div class="cm_block 1" style=";">
+<div class="">
+<div class="cm_content" style=";">
+<div class="row ">
+<div class="col-sm-4 type-img cm_column ">
+
+<div class="banner_wrap">
+<div class="zoom_image_wrap"><img class="zoom_image" src="https://alexandrechristie.com/image/catalog/banner/Promotion Banner/NewProduct.jpg" alt="" /></div>
+<div class="effect-holder"></div>
+<div class="banner_overlay">
+<div class="cm_item_wrapper pointer" onclick="location.href='https://alexandrechristie.com/index.php?route=extension/blog/home';">
+<div class="cm_item vertical-middle text-right">
+<div class="light">
+<p style="font-size:17px;margin-bottom:10px;">
+<i>Know deeper</i>
+</p>
+<h3 style="margin-bottom:10px">
+<b>Our Blog</b>
+</h3>
+<p style="margin-bottom:10px">
+Get to know the story of each <br>
+Alexandre Christie's watch.
+</p>
+<a class="underline" href="https://alexandrechristie.com/index.php?route=extension/blog/home">Continue Reading</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 type-img cm_column ">
+
+<div class="banner_wrap">
+<div class="zoom_image_wrap"><img class="zoom_image" src="https://alexandrechristie.com/image/catalog/banner/Promotion Banner/BannerTengahBlublu.jpg" alt="" /></div>
+<div class="effect-holder"></div>
+<div class="banner_overlay">
+<div class="cm_item_wrapper pointer" onclick="location.href='https://alexandrechristie.com/men-collection';">
+<div class="cm_item vertical-middle text-left">
+<div class="light">
+<p style="font-size:17px;margin-bottom:10px;">
+<i>New Arrivals</i>
+</p>
+<h3 style="margin-bottom:10px">
+<b>New Products</b>
+</h3>
+<p style="margin-bottom:10px">
+Keep yourself updated for <br>
+Alexandre Christie's new products.
+</p>
+<a class="underline" href="https://alexandrechristie.com/men-collection">Continue Reading</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 type-img cm_column ">
+
+<div class="banner_wrap">
+<div class="zoom_image_wrap"><img class="zoom_image" src="https://alexandrechristie.com/image/catalog/banner/Promotion Banner/Event.jpg" alt="" /></div>
+<div class="effect-holder"></div>
+<div class="banner_overlay">
+<div class="cm_item_wrapper pointer" onclick="location.href='https://alexandrechristie.com/index.php?route=extension/blog/blog&amp;blog_id=111';">
+<div class="cm_item vertical-middle text-left">
+<div class="light">
+<p style="font-size:17px;margin-bottom:10px;">
+<i>What's Happening</i>
+</p>
+<h3 style="margin-bottom:10px">
+<b>Our Event</b>
+</h3>
+<p style="margin-bottom:10px">
+Check our latest event<br>
+on our social media update !
+</p>
+<a class="underline" href="https://alexandrechristie.com/one-day-with-alexandre-christie-office-to-office">Continue Reading</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<style>
+
+</style>
+<div class="widget module0  grid" style="margin-bottom: 0px">
+
+<div class="widget-title">
+<p class="main-title"><span>New Collection</span></p>
+<p class="widget-title-separator"><i class="icon-line-cross"></i></p>
+<p class="sub-line"><span><span style="font-size:16px">With a legacy of more than half a century in the design and manufacturing of high quality timepieces</span></span></p><br>
+</div>
+<div class="tab-content has-carousel ">
+
+<div class="tab-pane active in fade" id="tab00">
+<div class="grid-holder grid5 prod_module0 carousel">
+<div class="item single-product">
+<div class="image banner_wrap hover-zoom">
+<a href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1639">
+<img src="https://alexandrechristie.com/image/cache/catalog/products/AC%206607%20MCB/6607MCBBRBA-362x434.jpg" alt="AC 6607 MCB" title="AC 6607 MCB" class="zoom_image" />
+
+</a>
+<a class="img-overlay" href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1639"></a>
+<div class="btn-center catalog_hide"><a class="btn btn-light-outline btn-thin" onclick="cart.add('1639', '1');">Add to Cart</a></div>
+<div class="icons-wrapper">
+<a class="icon is-cart catalog_hide" data-toggle="tooltip" data-placement="left" data-title="Add to Cart" onclick="cart.add('1639', '1');"><span class="global-cart"></span></a>
+<a class="icon is_wishlist" data-toggle="tooltip" data-placement="left" data-title="Add to Wish List" onclick="wishlist.add('1639');"><span class="icon-heart"></span></a>
+<a class="icon is_compare" onclick="compare.add('1639');" data-toggle="tooltip" data-placement="left" data-title="Compare this Product"><span class="icon-refresh"></span></a>
+<a class="icon is_quickview hidden-xs" onclick="quickview('1639');" data-toggle="tooltip" data-placement="left" data-title="Quickview"><span class="icon-magnifier-add"></span></a>
+</div> 
+</div>
+<div class="caption">
+<a class="product-name" href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1639">AC 6607 MCB</a>
+
+<div class="plain-links">
+<a class="icon is_wishlist link-hover-color" onclick="wishlist.add('1639');"><span class="icon-heart"></span> Add to Wish List</a>
+<a class="icon is_compare link-hover-color" onclick="compare.add('1639');"><span class="icon-refresh"></span> Compare this Product</a>
+<a class="icon is_quickview link-hover-color" onclick="quickview('1639');"><span class="icon-magnifier-add"></span> Quickview</a>
+</div>
+</div>
+</div>
+<div class="item single-product">
+<div class="image banner_wrap hover-zoom">
+<a href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1638">
+<img src="https://alexandrechristie.com/image/cache/catalog/products/AC%206606%20MCB/6606MCBBRBA-362x434.jpg" alt="AC 6606 MCB" title="AC 6606 MCB" class="zoom_image" />
+
+</a>
+<a class="img-overlay" href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1638"></a>
+<div class="btn-center catalog_hide"><a class="btn btn-light-outline btn-thin" onclick="cart.add('1638', '1');">Add to Cart</a></div>
+<div class="icons-wrapper">
+<a class="icon is-cart catalog_hide" data-toggle="tooltip" data-placement="left" data-title="Add to Cart" onclick="cart.add('1638', '1');"><span class="global-cart"></span></a>
+<a class="icon is_wishlist" data-toggle="tooltip" data-placement="left" data-title="Add to Wish List" onclick="wishlist.add('1638');"><span class="icon-heart"></span></a>
+<a class="icon is_compare" onclick="compare.add('1638');" data-toggle="tooltip" data-placement="left" data-title="Compare this Product"><span class="icon-refresh"></span></a>
+<a class="icon is_quickview hidden-xs" onclick="quickview('1638');" data-toggle="tooltip" data-placement="left" data-title="Quickview"><span class="icon-magnifier-add"></span></a>
+</div> 
+</div>
+<div class="caption">
+<a class="product-name" href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1638">AC 6606 MCB</a>
+
+<div class="plain-links">
+<a class="icon is_wishlist link-hover-color" onclick="wishlist.add('1638');"><span class="icon-heart"></span> Add to Wish List</a>
+<a class="icon is_compare link-hover-color" onclick="compare.add('1638');"><span class="icon-refresh"></span> Compare this Product</a>
+<a class="icon is_quickview link-hover-color" onclick="quickview('1638');"><span class="icon-magnifier-add"></span> Quickview</a>
+</div>
+</div>
+</div>
+<div class="item single-product">
+<div class="image banner_wrap hover-zoom">
+<a href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1637">
+<img src="https://alexandrechristie.com/image/cache/catalog/products/AC%206596%20MCB/6596MCBBRBA-362x434.jpg" alt="AC 6596 MCB" title="AC 6596 MCB" class="zoom_image" />
+
+</a>
+<a class="img-overlay" href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1637"></a>
+<div class="btn-center catalog_hide"><a class="btn btn-light-outline btn-thin" onclick="cart.add('1637', '1');">Add to Cart</a></div>
+<div class="icons-wrapper">
+<a class="icon is-cart catalog_hide" data-toggle="tooltip" data-placement="left" data-title="Add to Cart" onclick="cart.add('1637', '1');"><span class="global-cart"></span></a>
+<a class="icon is_wishlist" data-toggle="tooltip" data-placement="left" data-title="Add to Wish List" onclick="wishlist.add('1637');"><span class="icon-heart"></span></a>
+<a class="icon is_compare" onclick="compare.add('1637');" data-toggle="tooltip" data-placement="left" data-title="Compare this Product"><span class="icon-refresh"></span></a>
+<a class="icon is_quickview hidden-xs" onclick="quickview('1637');" data-toggle="tooltip" data-placement="left" data-title="Quickview"><span class="icon-magnifier-add"></span></a>
+</div> 
+</div>
+<div class="caption">
+<a class="product-name" href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1637">AC 6596 MCB</a>
+
+<div class="plain-links">
+<a class="icon is_wishlist link-hover-color" onclick="wishlist.add('1637');"><span class="icon-heart"></span> Add to Wish List</a>
+<a class="icon is_compare link-hover-color" onclick="compare.add('1637');"><span class="icon-refresh"></span> Compare this Product</a>
+<a class="icon is_quickview link-hover-color" onclick="quickview('1637');"><span class="icon-magnifier-add"></span> Quickview</a>
+</div>
+</div>
+</div>
+<div class="item single-product">
+<div class="image banner_wrap hover-zoom">
+<a href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1636">
+<img src="https://alexandrechristie.com/image/cache/catalog/products/AC%202A04%20BFR/2A04BFRRGBA-362x434.jpg" alt="AC 2A04 BFR" title="AC 2A04 BFR" class="zoom_image" />
+
+</a>
+<a class="img-overlay" href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1636"></a>
+<div class="btn-center catalog_hide"><a class="btn btn-light-outline btn-thin" onclick="cart.add('1636', '1');">Add to Cart</a></div>
+<div class="icons-wrapper">
+<a class="icon is-cart catalog_hide" data-toggle="tooltip" data-placement="left" data-title="Add to Cart" onclick="cart.add('1636', '1');"><span class="global-cart"></span></a>
+<a class="icon is_wishlist" data-toggle="tooltip" data-placement="left" data-title="Add to Wish List" onclick="wishlist.add('1636');"><span class="icon-heart"></span></a>
+<a class="icon is_compare" onclick="compare.add('1636');" data-toggle="tooltip" data-placement="left" data-title="Compare this Product"><span class="icon-refresh"></span></a>
+<a class="icon is_quickview hidden-xs" onclick="quickview('1636');" data-toggle="tooltip" data-placement="left" data-title="Quickview"><span class="icon-magnifier-add"></span></a>
+</div> 
+</div>
+<div class="caption">
+<a class="product-name" href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1636">AC 2A04 BFR</a>
+
+<div class="plain-links">
+<a class="icon is_wishlist link-hover-color" onclick="wishlist.add('1636');"><span class="icon-heart"></span> Add to Wish List</a>
+<a class="icon is_compare link-hover-color" onclick="compare.add('1636');"><span class="icon-refresh"></span> Compare this Product</a>
+<a class="icon is_quickview link-hover-color" onclick="quickview('1636');"><span class="icon-magnifier-add"></span> Quickview</a>
+</div>
+</div>
+</div>
+<div class="item single-product">
+<div class="image banner_wrap hover-zoom">
+<a href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1635">
+<img src="https://alexandrechristie.com/image/cache/catalog/products/AC%209205%20MCB%20Carbon/9205MCBBRBA(GL)-NEW-362x434.jpg" alt="AC 9205 MCB Carbon" title="AC 9205 MCB Carbon" class="zoom_image" />
+
+</a>
+<a class="img-overlay" href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1635"></a>
+<div class="btn-center catalog_hide"><a class="btn btn-light-outline btn-thin" onclick="cart.add('1635', '1');">Add to Cart</a></div>
+<div class="icons-wrapper">
+<a class="icon is-cart catalog_hide" data-toggle="tooltip" data-placement="left" data-title="Add to Cart" onclick="cart.add('1635', '1');"><span class="global-cart"></span></a>
+<a class="icon is_wishlist" data-toggle="tooltip" data-placement="left" data-title="Add to Wish List" onclick="wishlist.add('1635');"><span class="icon-heart"></span></a>
+<a class="icon is_compare" onclick="compare.add('1635');" data-toggle="tooltip" data-placement="left" data-title="Compare this Product"><span class="icon-refresh"></span></a>
+<a class="icon is_quickview hidden-xs" onclick="quickview('1635');" data-toggle="tooltip" data-placement="left" data-title="Quickview"><span class="icon-magnifier-add"></span></a>
+</div> 
+</div>
+<div class="caption">
+<a class="product-name" href="https://alexandrechristie.com/index.php?route=product/product&amp;product_id=1635">AC 9205 MCB Carbon</a>
+
+<div class="plain-links">
+<a class="icon is_wishlist link-hover-color" onclick="wishlist.add('1635');"><span class="icon-heart"></span> Add to Wish List</a>
+<a class="icon is_compare link-hover-color" onclick="compare.add('1635');"><span class="icon-refresh"></span> Compare this Product</a>
+<a class="icon is_quickview link-hover-color" onclick="quickview('1635');"><span class="icon-magnifier-add"></span> Quickview</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<script>
+$('.grid-holder.prod_module0').slick({
+prevArrow: "<a class=\"arrow-left icon-arrow-left\"></a>",
+nextArrow: "<a class=\"arrow-right icon-arrow-right\"></a>",
+respondTo:'min',
+rows:1,
+slidesToShow:5,slidesToScroll:5,responsive:[{breakpoint:1100,settings:{slidesToShow:4,slidesToScroll:4}},{breakpoint:960,settings:{slidesToShow:3,slidesToScroll:3}},{breakpoint:600,settings:{slidesToShow:2,slidesToScroll:2}},
+]
+});
+$('.product-style2 .single-product .icon').attr('data-placement', 'top');
+$('[data-toggle=\'tooltip\']').tooltip({container: 'body'});
+</script>
+<style>
+
+</style>
+<div class="widget module1  grid contrast-bg" style="margin-bottom: 0px">
+
+<div class="widget-title">
+<p class="main-title"><span>Favorite Collection</span></p>
+<p class="widget-title-separator"><i class="icon-line-cross"></i></p>
+<p class="sub-line"><span></span></p><br>
+</div>
+<div class="tab-content has-carousel ">
+
+<div class="tab-pane active in fade" id="tab10">
+<div class="grid-holder grid5 prod_module1 carousel">
+<div class="item single-product">
+<div class="image banner_wrap hover-zoom">
+<a href="https://alexandrechristie.com/ac-9205-mcr">
+<img src="https://alexandrechristie.com/image/cache/catalog/products/AC%209205%20MC/1597214420-9205MCRBRBA(GL)-910x1155-362x434.jpg" alt="AC 9205 MCR Carbon" title="AC 9205 MCR Carbon" class="zoom_image" />
+
+</a>
+<a class="img-overlay" href="https://alexandrechristie.com/ac-9205-mcr"></a>
+<div class="btn-center catalog_hide"><a class="btn btn-light-outline btn-thin" onclick="cart.add('1444', '1');">Add to Cart</a></div>
+<div class="icons-wrapper">
+<a class="icon is-cart catalog_hide" data-toggle="tooltip" data-placement="left" data-title="Add to Cart" onclick="cart.add('1444', '1');"><span class="global-cart"></span></a>
+<a class="icon is_wishlist" data-toggle="tooltip" data-placement="left" data-title="Add to Wish List" onclick="wishlist.add('1444');"><span class="icon-heart"></span></a>
+<a class="icon is_compare" onclick="compare.add('1444');" data-toggle="tooltip" data-placement="left" data-title="Compare this Product"><span class="icon-refresh"></span></a>
+<a class="icon is_quickview hidden-xs" onclick="quickview('1444');" data-toggle="tooltip" data-placement="left" data-title="Quickview"><span class="icon-magnifier-add"></span></a>
+</div> 
+</div>
+<div class="caption">
+<a class="product-name" href="https://alexandrechristie.com/ac-9205-mcr">AC 9205 MCR Carbon</a>
+
+<div class="plain-links">
+<a class="icon is_wishlist link-hover-color" onclick="wishlist.add('1444');"><span class="icon-heart"></span> Add to Wish List</a>
+<a class="icon is_compare link-hover-color" onclick="compare.add('1444');"><span class="icon-refresh"></span> Compare this Product</a>
+<a class="icon is_quickview link-hover-color" onclick="quickview('1444');"><span class="icon-magnifier-add"></span> Quickview</a>
+</div>
+</div>
+</div>
+<div class="item single-product">
+<div class="image banner_wrap hover-zoom">
+<a href="https://alexandrechristie.com/ac-S001-mfl">
+<img src="https://alexandrechristie.com/image/cache/catalog/productsac/1601486024-S001MFLBRBA-362x434.jpg" alt="AC S001 MFL" title="AC S001 MFL" class="zoom_image" />
+
+</a>
+<a class="img-overlay" href="https://alexandrechristie.com/ac-S001-mfl"></a>
+<div class="btn-center catalog_hide"><a class="btn btn-light-outline btn-thin" onclick="cart.add('1434', '1');">Add to Cart</a></div>
+<div class="icons-wrapper">
+<a class="icon is-cart catalog_hide" data-toggle="tooltip" data-placement="left" data-title="Add to Cart" onclick="cart.add('1434', '1');"><span class="global-cart"></span></a>
+<a class="icon is_wishlist" data-toggle="tooltip" data-placement="left" data-title="Add to Wish List" onclick="wishlist.add('1434');"><span class="icon-heart"></span></a>
+<a class="icon is_compare" onclick="compare.add('1434');" data-toggle="tooltip" data-placement="left" data-title="Compare this Product"><span class="icon-refresh"></span></a>
+<a class="icon is_quickview hidden-xs" onclick="quickview('1434');" data-toggle="tooltip" data-placement="left" data-title="Quickview"><span class="icon-magnifier-add"></span></a>
+</div> 
+</div>
+<div class="caption">
+<a class="product-name" href="https://alexandrechristie.com/ac-S001-mfl">AC S001 MFL</a>
+
+<div class="plain-links">
+<a class="icon is_wishlist link-hover-color" onclick="wishlist.add('1434');"><span class="icon-heart"></span> Add to Wish List</a>
+<a class="icon is_compare link-hover-color" onclick="compare.add('1434');"><span class="icon-refresh"></span> Compare this Product</a>
+<a class="icon is_quickview link-hover-color" onclick="quickview('1434');"><span class="icon-magnifier-add"></span> Quickview</a>
+</div>
+</div>
+</div>
+<div class="item single-product">
+<div class="image banner_wrap hover-zoom">
+<a href="https://alexandrechristie.com/ac-6141-mc">
+<img src="https://alexandrechristie.com/image/cache/catalog/productsac/6141%20MCBBRBA-362x434.jpg" alt="AC 6141 MC" title="AC 6141 MC" class="zoom_image" />
+
+</a>
+<a class="img-overlay" href="https://alexandrechristie.com/ac-6141-mc"></a>
+<div class="btn-center catalog_hide"><a class="btn btn-light-outline btn-thin" onclick="cart.add('1206', '1');">Add to Cart</a></div>
+<div class="icons-wrapper">
+<a class="icon is-cart catalog_hide" data-toggle="tooltip" data-placement="left" data-title="Add to Cart" onclick="cart.add('1206', '1');"><span class="global-cart"></span></a>
+<a class="icon is_wishlist" data-toggle="tooltip" data-placement="left" data-title="Add to Wish List" onclick="wishlist.add('1206');"><span class="icon-heart"></span></a>
+<a class="icon is_compare" onclick="compare.add('1206');" data-toggle="tooltip" data-placement="left" data-title="Compare this Product"><span class="icon-refresh"></span></a>
+<a class="icon is_quickview hidden-xs" onclick="quickview('1206');" data-toggle="tooltip" data-placement="left" data-title="Quickview"><span class="icon-magnifier-add"></span></a>
+</div> 
+</div>
+<div class="caption">
+<a class="product-name" href="https://alexandrechristie.com/ac-6141-mc">AC 6141 MC</a>
+
+<div class="plain-links">
+<a class="icon is_wishlist link-hover-color" onclick="wishlist.add('1206');"><span class="icon-heart"></span> Add to Wish List</a>
+<a class="icon is_compare link-hover-color" onclick="compare.add('1206');"><span class="icon-refresh"></span> Compare this Product</a>
+<a class="icon is_quickview link-hover-color" onclick="quickview('1206');"><span class="icon-magnifier-add"></span> Quickview</a>
+</div>
+</div>
+</div>
+<div class="item single-product">
+<div class="image banner_wrap hover-zoom">
+<a href="https://alexandrechristie.com/ac-8632-mh">
+<img src="https://alexandrechristie.com/image/cache/catalog/productsac/N8632MHBBRBA-362x434.jpg" alt="AC 8632 MH" title="AC 8632 MH" class="zoom_image" />
+
+</a>
+<a class="img-overlay" href="https://alexandrechristie.com/ac-8632-mh"></a>
+<div class="btn-center catalog_hide"><a class="btn btn-light-outline btn-thin" onclick="cart.add('1402', '1');">Add to Cart</a></div>
+<div class="icons-wrapper">
+<a class="icon is-cart catalog_hide" data-toggle="tooltip" data-placement="left" data-title="Add to Cart" onclick="cart.add('1402', '1');"><span class="global-cart"></span></a>
+<a class="icon is_wishlist" data-toggle="tooltip" data-placement="left" data-title="Add to Wish List" onclick="wishlist.add('1402');"><span class="icon-heart"></span></a>
+<a class="icon is_compare" onclick="compare.add('1402');" data-toggle="tooltip" data-placement="left" data-title="Compare this Product"><span class="icon-refresh"></span></a>
+<a class="icon is_quickview hidden-xs" onclick="quickview('1402');" data-toggle="tooltip" data-placement="left" data-title="Quickview"><span class="icon-magnifier-add"></span></a>
+</div> 
+</div>
+<div class="caption">
+<a class="product-name" href="https://alexandrechristie.com/ac-8632-mh">AC 8632 MH</a>
+
+<div class="plain-links">
+<a class="icon is_wishlist link-hover-color" onclick="wishlist.add('1402');"><span class="icon-heart"></span> Add to Wish List</a>
+<a class="icon is_compare link-hover-color" onclick="compare.add('1402');"><span class="icon-refresh"></span> Compare this Product</a>
+<a class="icon is_quickview link-hover-color" onclick="quickview('1402');"><span class="icon-magnifier-add"></span> Quickview</a>
+</div>
+</div>
+</div>
+<div class="item single-product">
+<div class="image banner_wrap hover-zoom">
+<a href="https://alexandrechristie.com/ac-6295-mpr">
+<img src="https://alexandrechristie.com/image/cache/catalog/productsac/6295MPRTPBA-362x434.jpg" alt="AC 6295 MPR" title="AC 6295 MPR" class="zoom_image" />
+
+</a>
+<a class="img-overlay" href="https://alexandrechristie.com/ac-6295-mpr"></a>
+<div class="btn-center catalog_hide"><a class="btn btn-light-outline btn-thin" onclick="cart.add('1411', '1');">Add to Cart</a></div>
+<div class="icons-wrapper">
+<a class="icon is-cart catalog_hide" data-toggle="tooltip" data-placement="left" data-title="Add to Cart" onclick="cart.add('1411', '1');"><span class="global-cart"></span></a>
+<a class="icon is_wishlist" data-toggle="tooltip" data-placement="left" data-title="Add to Wish List" onclick="wishlist.add('1411');"><span class="icon-heart"></span></a>
+<a class="icon is_compare" onclick="compare.add('1411');" data-toggle="tooltip" data-placement="left" data-title="Compare this Product"><span class="icon-refresh"></span></a>
+<a class="icon is_quickview hidden-xs" onclick="quickview('1411');" data-toggle="tooltip" data-placement="left" data-title="Quickview"><span class="icon-magnifier-add"></span></a>
+</div> 
+</div>
+<div class="caption">
+<a class="product-name" href="https://alexandrechristie.com/ac-6295-mpr">AC 6295 MPR</a>
+
+<div class="plain-links">
+<a class="icon is_wishlist link-hover-color" onclick="wishlist.add('1411');"><span class="icon-heart"></span> Add to Wish List</a>
+<a class="icon is_compare link-hover-color" onclick="compare.add('1411');"><span class="icon-refresh"></span> Compare this Product</a>
+<a class="icon is_quickview link-hover-color" onclick="quickview('1411');"><span class="icon-magnifier-add"></span> Quickview</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<script>
+$('.grid-holder.prod_module1').slick({
+prevArrow: "<a class=\"arrow-left icon-arrow-left\"></a>",
+nextArrow: "<a class=\"arrow-right icon-arrow-right\"></a>",
+respondTo:'min',
+rows:1,
+slidesToShow:5,slidesToScroll:5,responsive:[{breakpoint:1100,settings:{slidesToShow:4,slidesToScroll:4}},{breakpoint:960,settings:{slidesToShow:3,slidesToScroll:3}},{breakpoint:600,settings:{slidesToShow:2,slidesToScroll:2}},
+]
+});
+$('.product-style2 .single-product .icon').attr('data-placement', 'top');
+$('[data-toggle=\'tooltip\']').tooltip({container: 'body'});
+</script>
+</div>
+<div class="widget cm_module" style="margin-top:px;margin-right:px;margin-bottom:0px;margin-left:px;">
+<div class="cm_block_wrapper">
+<div class="vid-holder"></div><div class="cm_block 2" style="background-color:rgba(0,0,0,0.5);;">
+<div class="container">
+<div class="cm_content" style="padding:110px 6px 70px 6px;
+max-width:760px;;">
+<div class="row marginless">
+<div class="col-sm-12 type-html cm_column ">
+
+<div class="cm_item_wrapper">
+<div class="cm_item vertical-middle text-center">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<script>
+$('.vid-holder').tuber({
+videoId: 'kTdIZTCf20Y',
+isBackground: false
+});
+</script>
+</div>
+<div class="widget cm_module" style="margin-top:px;margin-right:px;margin-bottom:0px;margin-left:px;">
+<div class="cm_block_wrapper">
+<div class="cm_block 3" style="background-color:#1f1f1f;;">
+<div class="">
+<div class="cm_content" style=";">
+<div class="row marginless">
+<div class="col-sm-6 type-html cm_column eq_height">
+
+<div class="cm_item_wrapper">
+<div class="cm_item vertical-middle text-left">
+<div class="widget-border" style="border-color:#1f1f1f;"></div>
+<div class="widget-border-wrap newsletter">
+
+<h2 style="color:#FFF; "><b>THE AUTOMATIC WITH A SKELETON MOVEMENT</b></h2>
+<p class="summary" style="color:#CCC; ">Introducing the new Alexandre Christie AC 6295 MTR mechanical movement collection. Powered by a Japanese made automatic winding movement with power reserve of up to 41 hours. The ‘Skeleton Movement’ design clearly reveals the intricate inner workings of the movement hair spring. For added protection, a fully enclosed crown protector is a design feature. The beautifully crafted, lightweight, water resistant, titanium case is paired with our custom FKM strap to ensure maximum comfort and durability. The use of titanium for this new generation AC 6295 MTR is extremely resistant to salt water, so there is no fear of corrosion; nor is it affected by extreme temperature and remains comfortable, even in areas of high humidity.</p>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 type-img cm_column eq_height">
+
+<div class="banner_wrap">
+<div class="zoom_image_wrap"><img class="zoom_image" src="https://alexandrechristie.com/image/catalog/banner/Banner Mixed/skeleton.jpg" alt="" /></div>
+<div class="effect-holder"></div>
+<div class="banner_overlay">
+<div class="cm_item_wrapper ">
+<div class="cm_item vertical-middle text-center">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+</div>
+<div class="widget cm_module" style="margin-top:px;margin-right:px;margin-bottom:75px;margin-left:px;">
+<div class="cm_block_wrapper">
+<div class="cm_block 4" style="background-color:#1f1f1f;;">
+<div class="">
+<div class="cm_content" style=";">
+<div class="row marginless">
+<div class="col-sm-6 type-img cm_column eq_height">
+
+<div class="banner_wrap">
+<div class="zoom_image_wrap"><img class="zoom_image" src="https://alexandrechristie.com/image/catalog/banner/Banner Mixed/Banner-Digi.jpg" alt="" /></div>
+<div class="effect-holder"></div>
+<div class="banner_overlay">
+<div class="cm_item_wrapper ">
+<div class="cm_item vertical-middle text-center">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 type-html cm_column eq_height">
+
+<div class="cm_item_wrapper">
+<div class="cm_item vertical-middle text-right">
+<div class="widget-border" style="border-color:#1f1f1f;"></div>
+<div class="widget-border-wrap newsletter">
+
+
+<h2 style="color:#FFF; "><b>THE LATEST AC DIGI 9352 FOR RAINY SEASON OF 2022</b></h2>
+<p class="summary" style="color:#CCC; ">AC Digi's design inspiration was to encourage Millennials, born in the 1990s, to reunite with the watch designs that were in vogue at that time. The AC Digi series is now unisex and is available in a variety of colours. Equipped with a modern round screen, stainless steel 36mm case and a silicone band with a pin buckle, making it suitable for all occasions. This dynamic, AC Digi watch design will not date and may be worn with confidence for many years to come!
+</p>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+</div>
+<div class="container">
+<div class="row">
+<div id="content" class="col-sm-12"></div>
+</div>
+</div>
+<div class="container">
+</div>
+<div class="container">
+<div class="widget blog-widget grid">
+<div class="widget-title">
+<p class="main-title"><span>Latest News</span></p>
+<p class="widget-title-separator"><i class="icon-line-cross"></i></p>
+<p class="sub-line"><span><span style="font-size:16px">Get latest information about our activity.</span></span></p>
+</div>
+<div class="grid-holder blog grid3 carousel module0">
+<div class="item single-blog">
+<div class="banner_wrap hover-zoom hover-darken">
+<img class="zoom_image" src="https://alexandrechristie.com/image/cache/catalog/banner/Articles/2022%2009%2009%20-%20The-latest-AC-Digi-9352-MHR-for-Rainy-Season-360x220.jpg" alt="The latest AC Digi 9352 MHR for Rainy Season of 2022" title="The latest AC Digi 9352 MHR for Rainy Season of 2022" />
+<a href="https://alexandrechristie.com/index.php?route=extension/blog/blog&amp;blog_id=112" class="effect-holder"></a>
+<div class="date_added"><span class="day">09</span><b class="month">Sep</b></div>
+</div>
+<div class="summary">
+<h3 class="blog-title"><a href="https://alexandrechristie.com/index.php?route=extension/blog/blog&amp;blog_id=112">The latest AC Digi 9352 MHR for Rainy Season of 2022</a></h3>
+<div class="blog_stats">
+<i>Posted By: Alexandre</i> <i>Comments: 0</i> <i>Times Read: 49</i> </div>
+<p class="short-description">AC Digi's design inspiration was to encourage Millennials, born in the 1990s, to reunite with the watch designs that wer..</p>
+</div>
+</div>
+<div class="item single-blog">
+<div class="banner_wrap hover-zoom hover-darken">
+<img class="zoom_image" src="https://alexandrechristie.com/image/cache/catalog/banner/Articles/17Agustus-ArticlesBanner-360x220.jpg" alt="We are thrilled to celebrate Indonesia Independence Day!" title="We are thrilled to celebrate Indonesia Independence Day!" />
+<a href="https://alexandrechristie.com/index.php?route=extension/blog/blog&amp;blog_id=111" class="effect-holder"></a>
+<div class="date_added"><span class="day">16</span><b class="month">Aug</b></div>
+</div>
+<div class="summary">
+<h3 class="blog-title"><a href="https://alexandrechristie.com/index.php?route=extension/blog/blog&amp;blog_id=111">We are thrilled to celebrate Indonesia Independence Day!</a></h3>
+<div class="blog_stats">
+<i>Posted By: Alexandre</i> <i>Comments: 0</i> <i>Times Read: 290</i> </div>
+<p class="short-description">The day is right around the corner!..</p>
+</div>
+</div>
+<div class="item single-blog">
+<div class="banner_wrap hover-zoom hover-darken">
+<img class="zoom_image" src="https://alexandrechristie.com/image/cache/catalog/banner/Articles/2022%2006%2020%20-%20The%20New%20Summer%202022%20Alexandre%20Christie%20Vibrant%20Sporty%20Collection%20-AC6590-360x220.jpg" alt="The New Summer 2022 Alexandre Christie Vibrant Sporty Collection " title="The New Summer 2022 Alexandre Christie Vibrant Sporty Collection " />
+<a href="https://alexandrechristie.com/index.php?route=extension/blog/blog&amp;blog_id=110" class="effect-holder"></a>
+<div class="date_added"><span class="day">10</span><b class="month">Jun</b></div>
+</div>
+<div class="summary">
+<h3 class="blog-title"><a href="https://alexandrechristie.com/index.php?route=extension/blog/blog&amp;blog_id=110">The New Summer 2022 Alexandre Christie Vibrant Sporty Collection </a></h3>
+<div class="blog_stats">
+<i>Posted By: Alexandre</i> <i>Comments: 2</i> <i>Times Read: 712</i> </div>
+<p class="short-description">AC 6590 MCR and BFR are two sporty, colourful, light weight, summer collections for 2022. ..</p>
+</div>
+</div>
+ </div> 
+<div class="clearfix"></div>
+</div>
+<script><!--
+$('.grid-holder.blog.module0').slick({
+arrows: false,
+dots:true,
+respondTo:'min',
+rows:1,
+slidesToShow:3,slidesToScroll:3,responsive:[{breakpoint:600,settings:{slidesToShow:2,slidesToScroll:2}},
+{breakpoint:420,settings:{slidesToShow:1,slidesToScroll:1}}
+]
+});
+$("[data-toggle='tooltip").tooltip();
+//--></script>
+</div><div class="widget" style="margin-bottom:-50px">
+<div class="instagram_wrapper">
+<div class="instagram_title">
+<div class="table w100 h100"><div class="table-cell">
+<div class="widget-title">
+<p class="main-title"><span>FOLLOW <i class="fa fa-instagram"> </i> ACTIMEPIECE</span></p>
+<p class="widget-title-separator"><i class="icon-line-cross"></i></p>
+</div>
+</div></div>
+</div>
+<div class="images_wrap">
+<div id="instafeed0" class="grid-holder lg-grid6 md-grid4 sm-grid3" style="margin:-0px;"></div>
+</div>
+</div> 
+</div>
+<div class="container"><br>
+<br>
+<style>
+.gridins { 
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 10px;
+  align-items: stretch;
+  }
+.gridins img {
+  border: 0px solid #ccc;
+  /*box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);*/
+  max-width: 100%;
+}
+
+.container22 {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+[style*="--aspect-ratio"] > :first-child {
+  width: 100%;
+}
+[style*="--aspect-ratio"] > img {  
+  height: auto;
+} 
+@supports (--custom:property) {
+  [style*="--aspect-ratio"] {
+    position: relative;
+  }
+  [style*="--aspect-ratio"]::before {
+    content: "";
+    display: block;
+    /*padding-bottom: calc(100% / (var(--aspect-ratio)));*/
+    padding-bottom: 350px;
+  }  
+  [style*="--aspect-ratio"] > :first-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }  
+}
+</style>
+<div class="gridins">
+</div>
+
+<script>
+var feed = new Instafeed({
+		get: 'user',
+		userId: 370341021,
+		accessToken: '370341021.1677ed0.d16f88f5356641278898b8d2d832ef38',
+		target: 'instafeed0',
+		limit: '12',
+		template: '<a href="{\{\link\}\}" target="_blank" class="item insta-item" style="padding:0px;"><div style="position:absolute;top:0px;right:0px;bottom:0px;left:0px;background-image:url(\'{\{\image\}\}\');background-position:center center;background-size:cover;"></div><img src="catalog/view/theme/basel/image/insta-filler.png" /><span class="hover_fill" style="top:0px;right:0px;bottom:0px;left:0px;"></span></a>',
+				resolution: 'low_resolution'
+		});
+feed.run();
+</script>
+</div>
+<div id="footer">
+<div class="container">
+<div class="footer-top-block">
+<p style="text-align:center;">
+<img alt="Logo" src="image/catalog/banner/logo.png">
+</p>
+</div>
+<div class="row links-holder">
+<div class="col-xs-12 col-sm-8">
+<div class="row">
+<div class="footer-column col-xs-12 col-sm-4 eq_height">
+<h5>Information</h5>
+<ul class="list-unstyled">
+<li><a href="https://alexandrechristie.com/index.php?route=information/information&amp;information_id=4">About Us</a></li>
+<li><a href="index.php?route=information/storelocator">Store Locator</a></li>
+<li><a href="index.php?route=account/download">User Manual</a></li>
+<li><a href="https://alexandrechristie.com/index.php?route=information/contact">Contact Us</a></li>
+</ul>
+</div>
+<div class="footer-column col-xs-12 col-sm-4 eq_height">
+<h5>Extras</h5>
+<ul class="list-unstyled">
+
+<li><a href="https://alexandrechristie.com/index.php?route=information/sitemap">Site Map</a></li>
+</ul>
+</div>
+<div class="footer-column col-xs-12 col-sm-4 eq_height">
+<h5>Media</h5>
+<ul class="list-unstyled">
+
+
+<li><a href="https://alexandrechristie.com/blog-event">Event</a></li>
+<li><a href="https://alexandrechristie.com/blog-news">News</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-column col-xs-12 col-sm-4">
+<div class="footer-custom-wrapper">
+<h5>About Us</h5>
+<div class="custom_block">With a legacy of more than half a century in the design and manufacturing of high quality timepieces, Alexandre Christie embodies the essence of passionate design and state of the art watch making.
+<br /><br />
+<div class="social-icons round inversed">
+<a class="icon facebook fb_share external" href="https://www.facebook.com/actimepiece" target="_blank"><i class="fa fa-facebook"></i></a>
+<a class="icon twitter twitter_share external" href="https://twitter.com/actimepiece" target="_blank"><i class="fa fa-twitter"></i></a>
+<a class="icon twitter twitter_share external" href="https://www.instagram.com/actimepiece/" target="_blank"><i class="fa fa-instagram"></i></a>
+</div>
+</div>
+<p class="infoline"></p>
+<p class="infoline"></p>
+<p class="infoline"></p>
+</div>
+</div>
+</div>
+<div class="footer-copyright">© 2022 Alexandre Christie. All rights reserved.</div>
+</div>
+</div>
+<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+<link href="catalog/view/theme/basel/js/lightgallery/css/lightgallery.css" rel="stylesheet" />
+<script src="catalog/view/theme/basel/js/jquery.matchHeight.min.js"></script>
+<script src="catalog/view/theme/basel/js/countdown.js"></script>
+<script src="catalog/view/theme/basel/js/live_search.js"></script>
+<script src="catalog/view/theme/basel/js/featherlight.js"></script>
+
+</div>
+<a class="scroll-to-top primary-bg-color hidden-sm hidden-xs" onclick="$('html, body').animate({scrollTop:0});"><i class="icon-arrow-right"></i></a>
+<div id="featherlight-holder"></div>
+</body></html>
